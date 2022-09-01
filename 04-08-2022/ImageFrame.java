@@ -1,0 +1,5 @@
+enum ImageFrame
+{
+	WOOD,PLASTIC,ALUMINIUM,GLASS,PAPER;
+	
+}
